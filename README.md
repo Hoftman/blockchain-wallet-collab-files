@@ -1,5 +1,3 @@
-
-
 Trust Wallet Core is an open source, cross-platform, mobile-focused library
 implementing low-level cryptographic wallet functionality for a high number of blockchains.
 It is a core part of the popular [Trust Wallet](https://trustwallet.com), and some other projects.
